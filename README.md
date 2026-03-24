@@ -1,6 +1,8 @@
 # codex-inter-agent-chat
 
-[![codex-inter-chat-demo](./assets/demo/codex-inter-chat-demo-3x.gif)](https://github.com/user-attachments/assets/5b977592-0d6f-4715-b512-bc8dd5bd4e7b)
+![codex-inter-chat-demo](./assets/demo/codex-inter-chat-demo-3x.gif)
+
+[Watch full demo video](https://github.com/user-attachments/assets/5b977592-0d6f-4715-b512-bc8dd5bd4e7b)
 
 - [English](./README.en.md)
 
