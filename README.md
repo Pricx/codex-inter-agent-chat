@@ -57,3 +57,4 @@ codex-team send --team reverse \
 ## Credit
 
 - [tessron/claude-code-skills](https://github.com/tessron/claude-code-skills/)
+- [Linux.do](https://linux.do)
